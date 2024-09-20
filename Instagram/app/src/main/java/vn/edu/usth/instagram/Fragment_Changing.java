@@ -22,7 +22,11 @@ public class Fragment_Changing extends FragmentStateAdapter {
             case 1:
                 return new Search();
             case 2:
+                return new Chat();
+            case 3:
                 return new Profile();
+            case 4:
+                return new Post();
             default:
                 return new Home();
         }
@@ -30,6 +34,6 @@ public class Fragment_Changing extends FragmentStateAdapter {
 
     @Override
     public int getItemCount() {
-        return 3;
+        return 5;
     }
 }

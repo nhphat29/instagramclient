@@ -84,7 +84,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic1">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -110,7 +110,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic3">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -145,7 +145,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic2">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -171,7 +171,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic4">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -200,7 +200,7 @@
                     <FrameLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@drawable/post1">
+                        android:background="@drawable/condi1">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -235,7 +235,7 @@
                     <FrameLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@drawable/post1">
+                        android:background="@drawable/pic6">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -268,7 +268,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic5">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -294,7 +294,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic13">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -329,7 +329,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic8">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -355,7 +355,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic11">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -398,7 +398,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic14">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -424,7 +424,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic7">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -459,7 +459,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic22">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -485,7 +485,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic15">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -514,7 +514,7 @@
                     <FrameLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@drawable/post1">
+                        android:background="@drawable/pic18">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -549,7 +549,7 @@
                     <FrameLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@drawable/post1">
+                        android:background="@drawable/pic10">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -582,7 +582,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic24">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -608,7 +608,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic9">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -643,7 +643,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic20">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
@@ -669,7 +669,7 @@
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/post1">
+                            android:background="@drawable/pic17">
 
                             <RelativeLayout
                                 android:layout_width="match_parent"
