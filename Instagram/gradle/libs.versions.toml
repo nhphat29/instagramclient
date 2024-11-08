@@ -12,6 +12,7 @@ fragment = "1.8.3"
 appcompat = "1.7.0"
 constraintlayout = "2.1.4"
 material = "1.12.0"
+supabaseKt = "0.6.5"
 viewpager2 = "1.1.0"
 
 [libraries]
@@ -34,6 +35,7 @@ androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 androidx-viewpager2 = { group = "androidx.viewpager2", name = "viewpager2", version.ref = "viewpager2" }
+supabase-kt = { module = "io.supabase:supabase-kt", version.ref = "supabaseKt" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
