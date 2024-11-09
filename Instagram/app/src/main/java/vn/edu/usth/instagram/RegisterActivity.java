@@ -44,17 +44,20 @@ public class RegisterActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-
+    // Method to register a user
     private void registerUser() {
         String username = usernameEditText.getText().toString().trim();
         String password = passwordEditText.getText().toString().trim();
         String email = emailEditText.getText().toString().trim();
 
+        // Check if any of the input fields are empty
         if (TextUtils.isEmpty(username) || TextUtils.isEmpty(password) || TextUtils.isEmpty(email)){
+            // Display a message prompting the user to fill in all fields
             Toast.makeText(RegisterActivity.this, "Input full information", Toast.LENGTH_SHORT).show();
         }else {
             RegisterRequest request = new RegisterRequest(username, password, email);
 
+            // Make a network call to the API to register the user
             ApiClient.getApiService().register(request).enqueue(new Callback<ApiResponse>() {
                 @Override
                 public void onResponse(Call<ApiResponse> call, Response<ApiResponse> response) {
