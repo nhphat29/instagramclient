@@ -9,13 +9,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import java.util.function.ToLongBiFunction;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import vn.edu.usth.instagram.ApiClient;
-import vn.edu.usth.instagram.R;
 import vn.edu.usth.instagram.dto.request.RegisterRequest;
 import vn.edu.usth.instagram.dto.response.ApiResponse;
 
@@ -39,6 +35,7 @@ public class RegisterActivity extends AppCompatActivity {
         registerButton.setOnClickListener(v -> registerUser());
         tologinButton.setOnClickListener(v -> tologinUser());
     }
+
     private void tologinUser(){
         Intent intent = new Intent(RegisterActivity.this, LoginActivity.class);
         startActivity(intent);
