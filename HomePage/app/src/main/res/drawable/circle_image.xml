@@ -1,7 +1,0 @@
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@android:color/white"/>
-    <corners android:radius="1000dp"/> <!-- Set a large radius for a circular effect -->
-    <stroke
-        android:width="2dp"
-        android:color="@android:color/darker_gray"/> <!-- Optional: for border -->
-</shape>
